@@ -1,2 +1,2 @@
-# coronaFISH
-Tools related to COVID-19 research.
+# COVID-19 tools developed by Raj Lab
+
